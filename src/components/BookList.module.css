@@ -1,0 +1,19 @@
+.book-list {
+  width: 100%;
+  position: relative;
+}
+
+.category {
+  margin-left: 10px;
+  padding-bottom: 5px;
+  color: #934e72;
+  border-bottom: 1px solid #934e72;
+  text-transform: capitalize;
+}
+.list-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
